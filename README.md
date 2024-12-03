@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/jaime-orea-virgen-2577a9286" target="blank">
     <img align="center" src="https://img.shields.io/badge/Linkedin-007BFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="@unsimpledev" />
   </a>
-  <a href="https://discord.gg/dCxbVP8P" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-4CAF50?style=for-the-badge&logo=discord&logoColor=black" alt="@unsimpledev" />
-  </a>
 </p>
 
 <br>
