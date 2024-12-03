@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="pexels-neo-853421-2653362.jpg" alt="Banner" width="100%">
+<img src="bannerJaime.jpg" alt="Banner" width="100%">
 
 <h1 align="center">Hola 👋, soy Jaime Orea Virgen / @jaimevirgendev ✨</h1>
 
