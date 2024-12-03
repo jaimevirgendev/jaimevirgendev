@@ -5,7 +5,7 @@
 
 <p align="center">
   
-  <a href="https://www.tiktok.com/@carlos.dev_&_r=1" target="blank">
+  <a href="https://www.tiktok.com/@jaime_orea511" target="blank">
     <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@" />
   </a>
   <a href="https://www.facebook.com/Jaime.Orea.1999" target="blank">
