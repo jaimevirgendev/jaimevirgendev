@@ -22,7 +22,7 @@
 <br>
 <h2 align="left">About me 😃</h2>
 <p align="left">
-🎓 Student computer system engineering (Experience 1 year).   
+🎓 Engineering computer system Student (creating experience).   
       Passionate about technology and solving problems through code.
 
 📝 Roles in the field:
